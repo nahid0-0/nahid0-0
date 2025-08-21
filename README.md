@@ -65,7 +65,6 @@ Daffodil International University
 - 📧 Email: sakib5191rahman@gmail.com
 - 📱 Phone: +880 1984283090
 - 💼 [LinkedIn Profile](https://linkedin.com/in/your-profile)
-- 🔗 [GitHub Profile](https://github.com/your-username)
 
 ---
 
