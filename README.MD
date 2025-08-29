@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm MD. Abdur Rahman Sakib
+# Hi there! 👋
 
 [![VJudge](https://img.shields.io/badge/VJudge-FF6B35?style=for-the-badge&logo=v&logoColor=white)](https://vjudge.net/user/Nahid112376)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_flood)
