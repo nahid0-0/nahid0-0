@@ -76,7 +76,3 @@ I leverage cutting-edge AI development tools including:
 - 💻 **GitHub**: You're already here!
 
 ---
-
-*"Always learning, always building, always improving"* 🚀
-
-⭐ **Fun Fact**: I'm passionate about competitive programming and love solving algorithmic challenges that push the boundaries of efficient problem-solving!
