@@ -55,20 +55,6 @@ Proficiency in leveraging AI-powered tools to accelerate development cycles, all
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-## 🛠️ Featured Projects
-
-### 🚗 [ParkSpace](https://github.com/yourusername/ParkSpace) - Garage Rental Platform
-Full-stack web application with RESTful API backend using Node.js and Express.js. Features Google OAuth integration via Appwrite and AWS S3 for scalable image storage.
-- **Tech**: Node.js, Express.js, JavaScript, Appwrite, AWS, Amazon S3, Tailwind CSS
-
-### 🤖 [AI-Generated Image Detection Pipeline](https://github.com/yourusername/ai-detection)
-End-to-end ML pipeline combining statistical, forensic, and deep learning features from ResNet and EfficientNet for AI-generated image detection.
-- **Tech**: Python, PyTorch, NumPy, Pandas, Computer Vision
-
-### 🏠 [Rento](https://github.com/yourusername/rento) - House Rental App
-Cross-platform mobile application built with Flutter for finding and listing rental properties with filtered search and user profiles.
-- **Tech**: Flutter, Dart, Firebase
-
 ## 📈 AI Development & Modern Tools
 
 I leverage cutting-edge AI development tools including:
