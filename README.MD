@@ -29,8 +29,9 @@ Proficiency in leveraging AI-powered tools to accelerate development cycles, all
 
 ### Competitions
 - **ICPC Asia Dhaka Regional Contest 2024** - Finalist (Regional)
-- **Data Visionary: NDAC 2025** - Participant (National) | Team: Data Dynamos
 - **Unlocked the Algorithm Fall 2023** - 8th Place (Intra-University)
+- **Data Visionary: NDAC 2025** - Participant (National) | Team: Data Dynamos
+
 
 ## 💻 Tech Stack
 
