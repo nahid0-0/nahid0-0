@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm MD. Abdur Rahman Sakib
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-handle)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your-handle)
+[![VJudge](https://img.shields.io/badge/VJudge-FF6B35?style=for-the-badge&logo=v&logoColor=white)](https://vjudge.net/user/Nahid112376)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_flood)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/bartazable666)
 
 ## 🎓 About Me
 
@@ -86,7 +86,7 @@ I leverage cutting-edge AI development tools including:
 
 - 📧 **Email**: sakib5191rahman@gmail.com
 - 📱 **Phone**: +880 1984283090
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/your-linkedin)
+- 💼 **LinkedIn**: [MD. Abdur Rahman Sakib](https://www.linkedin.com/in/md-abdur-rahman-sakib-8237b0322)
 - 💻 **GitHub**: You're already here!
 
 ---
