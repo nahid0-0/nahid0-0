@@ -1,14 +1,14 @@
 # Hi there! 👋
 
-[![VJudge](https://img.shields.io/badge/VJudge-FF6B35?style=for-the-badge&logo=v&logoColor=white)](https://vjudge.net/user/Nahid112376)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_flood)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/bartazable666)
 
 ## 🎓 About Me
 
 **Computer Science & Engineering Student** at Daffodil International University (Class of 2026)
 
 I’ve spent nights wrestling with code, solving over a thousand problems, learning the art of breaking things down and shaping them back better. My Codeforces journey isn’t glorious (yet), but it’s honest — here’s the trail. Highest rating: 1259. Just a pupil, but always sharpening the blade.
+[![VJudge](https://img.shields.io/badge/VJudge-FF6B35?style=for-the-badge&logo=v&logoColor=white)](https://vjudge.net/user/Nahid112376)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_flood)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/bartazable666)
 
 ## 🚀 My Approach
 
