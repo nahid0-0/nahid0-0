@@ -1,16 +1,16 @@
-# Hi there!
+# Hi there! 👋
 
 [![VJudge](https://img.shields.io/badge/VJudge-FF6B35?style=for-the-badge&logo=v&logoColor=white)](https://vjudge.net/user/Nahid112376)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_flood)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/bartazable666)
 
-## About Me
+## 🎓 About Me
 
 **Computer Science & Engineering Student** at Daffodil International University (Class of 2026)
 
 I’ve spent nights wrestling with code, solving over a thousand problems, learning the art of breaking things down and shaping them back better. My Codeforces journey isn’t glorious (yet), but it’s honest — here’s the trail. Highest rating: 1259. Just a pupil, but always sharpening the blade.
 
-## My Approach
+## 🚀 My Approach
 
 ### 1. **Fundamental Principles**
 A deep understanding of OOP, Data Structures, and low-level languages like C, which provides the flexibility to master new technologies with ease.
@@ -21,11 +21,11 @@ Practical experience in designing systems for web and mobile platforms, supporte
 ### 3. **AI-Accelerated Development**
 Proficiency in leveraging AI-powered tools to accelerate development cycles, allowing me to focus on high-level architecture and logic.
 
-## Achievements
+## 🏆 Achievements
 
 ### Competitive Programming
-- **Codeforces**: ~ 1300 rating (Pupil)
-- **CodeChef**: 1600+ rating (3-Star Coder)
+- **Codeforces**: 1250+ rating (Pupil) 🟢
+- **CodeChef**: 1600+ rating (3-Star Coder) ⭐⭐⭐
 
 ### Competitions
 - **ICPC Asia Dhaka Regional Contest 2024** - Finalist (Regional)
@@ -33,7 +33,7 @@ Proficiency in leveraging AI-powered tools to accelerate development cycles, all
 - **Data Visionary: NDAC 2025** - Participant (National) | Team: Data Dynamos
 
 
-## Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -73,7 +73,8 @@ I leverage cutting-edge AI development tools including:
 ## 📫 Let's Connect!
 
 - 📧 **Email**: sakib5191rahman@gmail.com
-- 📱 **Phone**: +880 1984244190
+- 📱 **Phone**: +880 1984283090
 - 💼 **LinkedIn**: [MD. Abdur Rahman Sakib](https://www.linkedin.com/in/md-abdur-rahman-sakib-8237b0322)
+- 💻 **GitHub**: You're already here!
 
 ---
