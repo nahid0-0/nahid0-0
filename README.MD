@@ -5,7 +5,7 @@
 
 **Computer Science & Engineering Student** at Daffodil International University (Class of 2026)
 
-I’ve spent nights wrestling with code, solving over a thousand problems, learning the art of breaking things down and shaping them back better. My Codeforces journey isn’t glorious (yet), but it’s honest — here’s the trail. Highest rating: 1259. Just a pupil, but always sharpening the blade.
+I’ve spent nights wrestling with code, solving over a thousand problems, learning the art of breaking things down and shaping them back better. My Codeforces journey isn’t glorious (yet), but it’s honest — here’s the trail. Highest rating: ~1300. Just a pupil, but always sharpening the blade.
 </br> </br>
 [![VJudge](https://img.shields.io/badge/VJudge-FF6B35?style=for-the-badge&logo=v&logoColor=white)](https://vjudge.net/user/Nahid112376)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_flood)
@@ -25,7 +25,7 @@ Proficiency in leveraging AI-powered tools to accelerate development cycles, all
 ## 🏆 Achievements
 
 ### Competitive Programming
-- **Codeforces**: 1250+ rating (Pupil) 🟢
+- **Codeforces**: ~1300 rating (Pupil) 🟢
 - **CodeChef**: 1600+ rating (3-Star Coder) ⭐⭐⭐
 
 ### Competitions
