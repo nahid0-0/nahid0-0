@@ -72,8 +72,6 @@ I leverage cutting-edge AI development tools including:
 ## 📫 Let's Connect!
 
 - 📧 **Email**: sakib5191rahman@gmail.com
-- 📱 **Phone**: +880 1984283090
 - 💼 **LinkedIn**: [MD. Abdur Rahman Sakib](https://www.linkedin.com/in/md-abdur-rahman-sakib-8237b0322)
-- 💻 **GitHub**: You're already here!
 
 ---
