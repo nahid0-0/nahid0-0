@@ -1,4 +1,4 @@
-# Hi there! I am Md Abdur Rahman Sakib 👋
+# Hi there! 👋
 
 
 ## 🎓 About Me
