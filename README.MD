@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-**Computer Science & Engineering Student** at Daffodil International University (Class of 2026)
+**Computer Science & Engineering Student** at Daffodil International University 
 
 I’ve spent nights wrestling with code, solving over a thousand problems, learning the art of breaking things down and shaping them back better. My Codeforces journey isn’t glorious (yet), but it’s honest — here’s the trail. Highest rating: ~1300. Just a pupil, but always sharpening the blade.
 </br> </br>
