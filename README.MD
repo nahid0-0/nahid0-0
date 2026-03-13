@@ -41,7 +41,7 @@ I've spent nights wrestling with code, solving over a thousand problems, learnin
 
 | Event | Result |
 |---|---|
-| **ICPC Asia Dhaka Regional Contest 2024** | 🏅 Finalist (Regional) |
+| **ICPC Asia Dhaka Regional Contest 2024** | 🏅 Perticipant (Regional) |
 | **Unlocked the Algorithm Fall 2023** | 🥇 8th Place (Intra-University) |
 | **Data Visionary: NDAC 2025** | Participant (National) — Team: Data Dynamos |
 
