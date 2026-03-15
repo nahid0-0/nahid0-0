@@ -8,7 +8,6 @@
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahid0-0&theme=radical&show_icons=true&count_private=true&hide_rank=true&card_width=400)](https://github.com/nahid0-0?tab=repositories)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nahid0-0&theme=radical&layout=compact&langs_count=4&card_width=400)](https://github.com/nahid0-0?tab=repositories)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahid0-0&theme=radical&show_icons=true&count_private=true&hide_rank=false&show=reviews,discussions_started,prs_merged,prs_merged_percentage)](https://github.com/nahid0-0?tab=repositories)
 
 </div>
