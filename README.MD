@@ -30,6 +30,9 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail)](mailto:sakib5191rahman@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_USERNAME)
 [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord)](https://discord.com/users/YOUR_ID)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_USERNAME)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/YOUR_USERNAME)
+[![VJudge](https://img.shields.io/badge/VJudge-000000?style=for-the-badge&logo=v&logoColor=white)](https://vjudge.net/user/YOUR_USERNAME)
 
 </div>
 
