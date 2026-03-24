@@ -25,7 +25,13 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakib5191rahman@gmail.com)
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail)](mailto:sakib5191rahman@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_USERNAME)
+[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord)](https://discord.com/users/YOUR_ID)
+
+</div>
 
 | | | |
 |---|---|---|
