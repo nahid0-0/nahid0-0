@@ -1,3 +1,5 @@
+<div align="center">
+
 [![](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
 # Hey, I'm Md Abdur Rahman Sakib
@@ -6,8 +8,9 @@
 
 [![Languages](https://skillicons.dev/icons?i=cpp,python,js,dart,java,flutter,react,nodejs,express,firebase,mysql,aws)](https://skillicons.dev)
 
-## 🌱 About Me
+</div>
 
+## 🌱 About Me
 * A student 🧑‍🎓
 * Heavy coffee drinker ☕
 * Love tossing technology/Math ⌨️
@@ -15,24 +18,23 @@
 * good at badminton 🏸
 
 ## 🚀 Currently Learning & Working On
-
 * 💻 Try to be an independent developer, I use Swift to develop applications
 * 🤔 Exploring new frameworks and open source ideas
 * 🛠️ Building personal website/blog with [Zensical]
 * 💡 Deeply study the interdisciplinary field of mathematics and programming
 
-
 ## 📫 Connect with Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakib5191rahman@gmail.com)
 
+<div align="center">
 
 [![](https://raw.githubusercontent.com/nahid0-0/nahid0-0/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/nahid0-0/nahid0-0/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/nahid0-0/nahid0-0/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 [![Headline typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=My+hobby:+;I+Love+coding;I+Love+learning;I+Love+building)](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=My+hobby:+;I+Love+coding;I+Love+learning;I+Love+building)
 
 [![nahid0-0's github activity graph](https://raw.githubusercontent.com/nahid0-0/nahid0-0/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/nahid0-0/nahid0-0/output/github-contribution-grid-snake.svg)
 
-
-
+</div>
