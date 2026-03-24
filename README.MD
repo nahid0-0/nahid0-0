@@ -21,9 +21,14 @@
 * 🛠️ Building personal website/blog with [Zensical]
 * 💡 Deeply study the interdisciplinary field of mathematics and programming
 
+
 ## 📫 Connect with Me
 
-[![Email](https://pic4.zhimg.com/v2-e996df5a76962 37b6f924ace7044cd97_1440w.jpg)](mailto:sakib5191rahman@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakib5191rahman@gmail.com)
+
+[![Headline typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=My+hobby:+;I+Love+coding;I+Love+learning;I+Love+building)](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=My+hobby:+;I+Love+coding;I+Love+learning;I+Love+building)
+
+[![nahid0-0's github activity graph](https://raw.githubusercontent.com/nahid0-0/nahid0-0/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/nahid0-0/nahid0-0/output/github-contribution-grid-snake.svg)
 
 
 [![Headline typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=My+hobby:+;I+Love+coding;I+Love+learning;I+Love+building)](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=My+hobby:+;I+Love+coding;I+Love+learning;I+Love+building)
