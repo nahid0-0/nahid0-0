@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -22,10 +25,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-# ```
-
-# **Step 2:** After committing, go to your repo → **Actions** tab → run the workflow manually once (click "Run workflow").
-
-# **Step 3:** Once it runs successfully, an `output` branch will be created with the SVG. Then this URL will work:
-# ```
-# https://raw.githubusercontent.com/nahid0-0/nahid0-0/output/github-contribution-grid-snake.svg
