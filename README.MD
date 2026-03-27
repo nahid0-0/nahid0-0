@@ -1,7 +1,5 @@
 <div align="center">
 
-[![](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
-
 # Hey, I'm Md Abdur Rahman Sakib
 
 
