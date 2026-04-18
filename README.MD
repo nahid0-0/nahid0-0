@@ -35,7 +35,6 @@
 
 [![Headline typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=My+hobby:+;I+Love+coding;I+Love+learning;I+Love+building)](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=My+hobby:+;I+Love+coding;I+Love+learning;I+Love+building)
 
-[![nahid0-0's github activity graph](https://raw.githubusercontent.com/nahid0-0/nahid0-0/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/nahid0-0/nahid0-0/output/github-contribution-grid-snake.svg)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakib5191rahman@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-abdur-rahman-sakib-8237b0322)
