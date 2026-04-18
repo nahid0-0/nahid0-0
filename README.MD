@@ -33,9 +33,6 @@
 |---|---|---|
 | [![](https://raw.githubusercontent.com/nahid0-0/nahid0-0/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![](https://raw.githubusercontent.com/nahid0-0/nahid0-0/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![](https://raw.githubusercontent.com/nahid0-0/nahid0-0/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
 
-[![Headline typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=My+hobby:+;I+Love+coding;I+Love+learning;I+Love+building)](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=My+hobby:+;I+Love+coding;I+Love+learning;I+Love+building)
-
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakib5191rahman@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-abdur-rahman-sakib-8237b0322)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nahid0-0)
