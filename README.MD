@@ -2,12 +2,12 @@
 
 Here's the trimmed version:
 ## 🌱 About Me
-* Fresh graduate figuring things out 🎓
+* Fresh graduate figuring things out 
 * Obsessed with how systems are designed — not just that they work
 
 ## 🚀 Currently Learning & Working On
-* 🤖 Building AI-powered backends — FastAPI, RAG, LLM integration
-* 💬 Personal chat manager with streaming + conversation history
+* Building AI-powered backends — FastAPI, RAG, LLM integration
+* Personal chat manager with streaming + conversation history
 
 <div align="center">
 
