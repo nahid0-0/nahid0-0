@@ -1,17 +1,14 @@
 
 
+Here's the trimmed version:
 ## 🌱 About Me
-* A student 🧑‍🎓
-* Heavy coffee drinker ☕
-* Love tossing technology/Math ⌨️
-* Read books;lover of poetry;like Haruki Murakami 📖
-* good at badminton 🏸
+* Fresh graduate figuring things out 🎓
+* Obsessed with how systems are designed — not just that they work
 
 ## 🚀 Currently Learning & Working On
-* 💻 Try to be an independent developer, I use Swift to develop applications
-* 🤔 Exploring new frameworks and open source ideas
-* 🛠️ Building personal website/blog with [Zensical]
-* 💡 Deeply study the interdisciplinary field of mathematics and programming
+* 🤖 Building AI-powered backends — FastAPI, RAG, LLM integration
+* 💬 Personal chat manager with streaming + conversation history
+
 <div align="center">
 
 
