@@ -1,6 +1,4 @@
 
-
-Here's the trimmed version:
 ## 🌱 About Me
 * Fresh graduate figuring things out 
 * Obsessed with how systems are designed — not just that they work
