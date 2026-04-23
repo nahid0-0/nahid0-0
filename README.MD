@@ -5,7 +5,7 @@ Here's the trimmed version:
 * Fresh graduate figuring things out 
 * Obsessed with how systems are designed — not just that they work
 
-## Currently Learning & Working On
+## 🚀 Currently Learning & Working On
 * Building AI-powered backends — FastAPI, RAG, LLM integration
 * Personal chat manager with streaming + conversation history
 
